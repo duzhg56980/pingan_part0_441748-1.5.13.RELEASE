@@ -1,0 +1,6 @@
+import org.springframework.boot.context.ConfigurationWarningsApplicationContextInitializer;
+public class FunctionUse1194 {
+public void funcUse() {
+ConfigurationWarningsApplicationContextInitializer configurationwarningsapplicationcontextinitializer = new ConfigurationWarningsApplicationContextInitializer();
+}
+}

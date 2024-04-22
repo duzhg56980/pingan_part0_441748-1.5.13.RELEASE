@@ -1,0 +1,7 @@
+import org.springframework.boot.context.embedded.EmbeddedServletContainerCustomizerBeanPostProcessor;
+public class FunctionUse786 {
+public void funcUse() {
+EmbeddedServletContainerCustomizerBeanPostProcessor embeddedservletcontainercustomizerbeanpostprocessor = new EmbeddedServletContainerCustomizerBeanPostProcessor();
+embeddedservletcontainercustomizerbeanpostprocessor.setBeanFactory(null);
+}
+}

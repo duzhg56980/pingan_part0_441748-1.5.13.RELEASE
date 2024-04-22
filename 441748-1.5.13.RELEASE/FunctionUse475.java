@@ -1,0 +1,6 @@
+import org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessorRegistrar;
+public class FunctionUse475 {
+public void funcUse() {
+ConfigurationPropertiesBindingPostProcessorRegistrar configurationpropertiesbindingpostprocessorregistrar = new ConfigurationPropertiesBindingPostProcessorRegistrar();
+}
+}

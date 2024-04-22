@@ -1,0 +1,7 @@
+import org.springframework.boot.context.embedded.WebApplicationContextServletContextAwareProcessor;
+public class FunctionUse733 {
+public void funcUse() {
+WebApplicationContextServletContextAwareProcessor webapplicationcontextservletcontextawareprocessor = new WebApplicationContextServletContextAwareProcessor();
+webapplicationcontextservletcontextawareprocessor.getServletContext();
+}
+}

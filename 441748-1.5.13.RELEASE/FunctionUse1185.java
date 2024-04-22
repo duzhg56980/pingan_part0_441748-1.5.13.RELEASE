@@ -1,0 +1,7 @@
+import org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext;
+public class FunctionUse1185 {
+public void funcUse() {
+AnnotationConfigEmbeddedWebApplicationContext annotationconfigembeddedwebapplicationcontext = new AnnotationConfigEmbeddedWebApplicationContext();
+annotationconfigembeddedwebapplicationcontext.postProcessBeanFactory(null);
+}
+}
